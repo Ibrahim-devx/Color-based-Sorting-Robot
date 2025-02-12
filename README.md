@@ -50,14 +50,15 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 ### 🔹 Hardware Components  
 - 🎯 **Raspberry Pi 4** – Main processing unit  
 <img src="demo_images/Raspberry pi 4.jpg" alt="Raspberry pi 4" height="350">
+
 - 🎯 **Arduino Uno** – Controls robotic arm  
-<img src="demo_images/Arduino.jpg" alt="Project Overview" width="500">
+<img src="demo_images/Arduino.jpg" alt="Arduino" height="350">
 
 - 🎯 **Arducam Camera Module** – Captures object images
-![Camera](demo_images/camera.jpg)   
+<img src="demo_images/camera.jpg" alt="camera" height="350"> 
 
 - 🎯 **L298N Motor Driver** – Controls motors  
-![Motor Driver](demo_images/L298N.jpg) 
+<img src="demo_images/L298N.jpg" alt="Driver" height="350"> 
 
 - 🎯 **12V Gear-box Motor** – Moves conveyer belt
 ![Gear-box Motor](demo_images/12V Gear-box Motor.jpg) 
