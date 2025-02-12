@@ -26,8 +26,9 @@ The system consists of:
  
 ## 🎥 Demo GIF  
 ![Sorting Robot in Action](demo_images/project_demo.gif)
----
 
+<img src="demo_images/project_demo.gif" alt="Motor" height="500"> 
+--
 ### 📌 Working Process  
 1️⃣ **Object is placed on the conveyor belt**  
 2️⃣ **Camera captures an image & detects color using OpenCV**  
