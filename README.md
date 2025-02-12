@@ -51,7 +51,7 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 - 🎯 **Raspberry Pi 4** – Main processing unit  
 <img src="(demo_images/Raspberry_pi_4.jpg" alt="Project Overview" width="500">
 - 🎯 **Arduino Uno** – Controls robotic arm  
-<img src="demo_images/Arduino.jpg" alt="Project Overview" width="500">
+<img src="demo_images/Arduino.jpg" alt="Project Overview" width="5000">
 
 - 🎯 **Arducam Camera Module** – Captures object images
 ![Camera](demo_images/camera.jpg)   
