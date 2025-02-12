@@ -51,7 +51,7 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 - 🎯 **Raspberry Pi 4** – Main processing unit  
 <img src="(demo_images/Raspberry_pi_4.jpg" alt="Project Overview" width="500">
 - 🎯 **Arduino Uno** – Controls robotic arm  
-<img src="demo_images/Arduino.jpg" alt="Project Overview" width="5000">
+<img src="demo_images/Arduino.jpg" alt="Project Overview" width="500">
 
 - 🎯 **Arducam Camera Module** – Captures object images
 ![Camera](demo_images/camera.jpg)   
@@ -64,7 +64,7 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 
 - 🎯 **Servo Motors** – Moves robotic arm  
 ![Servo Motor](demo_images/servo motor.jpg) 
-
+<img src="demo_images/servo_motor.jpg" alt="servor motor" width="500">
 - 🎯 **Conveyor Belt System** – Transports objects
 - ![Conveyer](demo_images/conveyer_belt_3D.jpg)  
 <img src="demo_images/conveyer_belt_3D.jpg" alt="onveyer belt 3D" width="500" height="300">
