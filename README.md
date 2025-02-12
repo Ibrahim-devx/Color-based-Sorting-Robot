@@ -67,7 +67,9 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 ![Servo Motor](demo_images/servo motor.jpg) 
 
 - 🎯 **Conveyor Belt System** – Transports objects  
-![Conveyor Belt](demo_images/conveyer belt 3D) 
+![Conveyor Belt]
+<img src="demo_images/conveyer belt 3D" alt="onveyer belt 3D" width="500" height="300">
+
  
 ### 🔹 Software & Libraries  
 - 🖥️ **Python & OpenCV** – Image processing & color detection  
