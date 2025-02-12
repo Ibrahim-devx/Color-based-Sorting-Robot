@@ -61,14 +61,13 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 <img src="demo_images/L298N.jpg" alt="Driver" height="350"> 
 
 - 🎯 **12V Gear-box Motor** – Moves conveyer belt
-![Gear-box Motor](demo_images/12V Gear-box Motor.jpg) 
+<img src="demo_images/12V Gear-box Motor.jpg" alt="Motor" height="350"> 
 
 - 🎯 **Servo Motors** – Moves robotic arm  
-![Servo Motor](demo_images/servo motor.jpg) 
-<img src="demo_images/servo_motor.jpg" alt="servor motor" width="500">
-- 🎯 **Conveyor Belt System** – Transports objects
-- ![Conveyer](demo_images/conveyer_belt_3D.jpg)  
-<img src="demo_images/conveyer_belt_3D.jpg" alt="onveyer belt 3D" width="500" height="300">
+<img src="demo_images/servo_motor.jpg" alt="servor motor" height="350">
+
+- 🎯 **Conveyor Belt System** – Transports objects 
+<img src="demo_images/conveyer_belt_3D.png" alt="onveyer belt 3D" height="350">
 
  
 ### 🔹 Software & Libraries  
