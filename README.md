@@ -27,11 +27,13 @@ The system consists of:
 ## 🎥 Demo GIF  
 <img src="demo_images/project_demo.gif" alt="Motor" height="400"> 
 --
-### 📌 Working Process  
-**1️⃣ Object is placed on the conveyor belt**  
-**2️⃣ Camera captures an image & detects color using OpenCV**  
-**3️⃣ Raspberry Pi processes the image & determines sorting category**  
-**4️⃣ Robotic arm picks & places the object in the correct bin**  
+
+### 📌 Working Process 
+
+1️⃣ ** Object is placed on the conveyor belt**  
+2️⃣ ** Camera captures an image & detects color using OpenCV**  
+3️⃣ ** Raspberry Pi processes the image & determines sorting category**  
+4️⃣ ** Robotic arm picks & places the object in the correct bin**  
 
 <img src="demo_images/flowchart.png" alt="flowchart" height="600">
 ---
