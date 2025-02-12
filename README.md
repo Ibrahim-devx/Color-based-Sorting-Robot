@@ -25,9 +25,7 @@ The system consists of:
 
  
 ## 🎥 Demo GIF  
-![Sorting Robot in Action](demo_images/project_demo.gif)
-
-<img src="demo_images/project_demo.gif" alt="Motor" height="500"> 
+<img src="demo_images/project_demo.gif" alt="Motor" height="400"> 
 --
 ### 📌 Working Process  
 1️⃣ **Object is placed on the conveyor belt**  
@@ -36,14 +34,14 @@ The system consists of:
 4️⃣ **Robotic arm picks & places the object in the correct bin**  
 
 ![Sorting Process](demo_images/flowchart.png)  
-
+<img src="demo_images/flowchart.png" alt="flowchart" height="600">
 ---
 
 ### 📌 Color Recognition in Action  
 The system classifies objects into ** Green, Blue, and Yellow** bins based on **HSV color space processing** in OpenCV.  
 
 ![Color Detection](demo_images/color_detection.png)  
-
+<img src="demo_images/color_detection.png" alt="color detection process" height="400"> 
 ---
 
 ## 🛠️ Hardware & Software Used  
