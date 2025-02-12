@@ -76,3 +76,8 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 - 🖥️ **Thonny IDE** – Microprocessor programming  
 - 🖥️ **SolidWorks** – Mechanical design  
 
+### 📌 Project Goals & Future Improvements
+- 🎯 **Optimize Sorting Speed** – Improve response time with faster image processing
+- 🎯 **Enhance Color Accuracy** – Add adaptive thresholding for better detection
+- 🎯 **Industrial Integration** – Expand system for large-scale factory use
+
