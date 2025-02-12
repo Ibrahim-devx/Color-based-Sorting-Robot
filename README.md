@@ -33,14 +33,12 @@ The system consists of:
 3️⃣ **Raspberry Pi processes the image & determines sorting category**  
 4️⃣ **Robotic arm picks & places the object in the correct bin**  
 
-![Sorting Process](demo_images/flowchart.png)  
 <img src="demo_images/flowchart.png" alt="flowchart" height="600">
 ---
 
 ### 📌 Color Recognition in Action  
 The system classifies objects into ** Green, Blue, and Yellow** bins based on **HSV color space processing** in OpenCV.  
-
-![Color Detection](demo_images/color_detection.png)  
+ 
 <img src="demo_images/color_detection.png" alt="color detection process" height="400"> 
 ---
 
