@@ -52,7 +52,7 @@ The system classifies objects into ** Green, Blue, and Yellow** bins based on **
 ![Raspberry Pi 4](demo_images/Raspberry pi 4.jpg) 
 
 - 🎯 **Arduino Uno** – Controls robotic arm  
-![Arduino Uno](demo_images/Arduino.jpg) 
+![Arduino Uno](demo_images/Arduino.jpg){ width=500 }
 
 - 🎯 **Arducam Camera Module** – Captures object images
 ![Camera](demo_images/camera.jpg)   
